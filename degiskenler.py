@@ -11,5 +11,7 @@ print(f"ortalama hbp={hbp}")
 # geriye kaç parası kalır.
 
 fiyat=13
-adet=?
-kalan=?
+adet=mustafa//fiyat
+kalan=mustafa-adet*fiyat
+
+print(f"Mustafa tanesi {fiyat} tl olan defterlerden. {adet} adet alabilir ve geriye {kalan} tl'si kalır.")
