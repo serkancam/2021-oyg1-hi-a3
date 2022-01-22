@@ -1,0 +1,2 @@
+ali,kul,35
+ercan,can,15
